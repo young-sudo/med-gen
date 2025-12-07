@@ -21,19 +21,19 @@ An international team-based initiative organised by five 4EU+ member universitie
 # Methodology
 
 <div style="align: center;">
-    <img src="https://githubusercontent.com/young-sudo/med-gen/main/img/nsp13_pockets.png" alt="nsp13">
+    <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/nsp13_pockets.png" alt="nsp13">
 <div>
 
 The SARS-CoV-2 Non-structural protein 13 ([NSP13](https://www.nature.com/articles/s41467-021-25166-6)) was chosen as a viable therapeutic target.
 
 <div style="align: center;">
-    <img src="https://githubusercontent.com/young-sudo/med-gen/main/img/pipeline.png" alt="pipeline">
+    <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/pipeline.png" alt="pipeline">
 <div>
 
 Experimental methodology bases on Low Data (zero-shot) generation of amino-acid-based drug candidates using ProtGPT2 - a Large Language Model trained on amino acid sequences. The generated sequences were evaluated on basic metrics that would be expected from a viable drug in terms of ADMET.
 
 <div style="align: center;">
-    <img src="https://githubusercontent.com/young-sudo/med-gen/main/img/protgpt2_histograms.png" alt="histograms">
+    <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/protgpt2_histograms.png" alt="histograms">
 <div>
 
 Additionally, CABS-dock and HPepDock were used to verify docking results from AlphaFold-Multimer.
