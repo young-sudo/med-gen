@@ -22,7 +22,7 @@ An international team-based initiative organised by five 4EU+ member universitie
 
 >Note: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
 
-# Methodology
+# Methods
 
 <p align=center>
     <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/nsp13_pockets.png" alt="nsp13">
