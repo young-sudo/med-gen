@@ -18,6 +18,8 @@ An international team-based initiative organised by five 4EU+ member universitie
 
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
 
+>Note: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
+
 # Methodology
 
 <div style="align: center;">
@@ -49,7 +51,3 @@ Jumper, J., Evans, R., Pritzel, A. et al. Highly accurate protein structure pred
 Kurcinski, M., Jamroz, M., Blaszczyk, M., Kolinski, A., & Kmiecik, S. (2015). CABS-dock web server for the flexible docking of peptides to proteins without prior knowledge of the binding site. Nucleic acids research, 43(W1), W419–W424. [https://doi.org/10.1093/nar/gkv456](https://doi.org/10.1093/nar/gkv456)
 
 Zhou, P., Jin, B., Li, H., & Huang, S. Y. (2018). HPEPDOCK: a web server for blind peptide-protein docking based on a hierarchical algorithm. Nucleic acids research, 46(W1), W443–W450. [https://doi.org/10.1093/nar/gky357](https://doi.org/10.1093/nar/gky357)
-
-# Note
-
->This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects) focusing solely on the work of team **Warsaw3**.
