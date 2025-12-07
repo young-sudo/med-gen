@@ -7,6 +7,8 @@ An experimental GenAI-based amino acid drug design study against SARS-CoV-2 nsp1
 ![AlphaFold](https://img.shields.io/badge/AlphaFold2-1E4D8B?style=for-the-badge&logo=google&logoColor=white)
 ![ProtGPT2](https://img.shields.io/badge/ProtGPT2-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Biopython](https://img.shields.io/badge/Biopython-3CAE63?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-3c4549?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 **Team Members**:
 - [Younginn Park](https://github.com/young-sudo)
