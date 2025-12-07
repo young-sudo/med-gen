@@ -24,19 +24,19 @@ An international team-based initiative organised by five 4EU+ member universitie
 
 # Methodology
 
-<p style="align: center;">
+<p align=center>
     <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/nsp13_pockets.png" alt="nsp13">
 </p>
 
 The SARS-CoV-2 Non-structural protein 13 ([NSP13](https://www.nature.com/articles/s41467-021-25166-6)) is chosen as a viable therapeutic target candidate.
 
-<p style="align: center;">
+<p align=center>
     <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/pipeline.png" alt="pipeline">
 </p>
 
 Experimental methodology bases on Low Data generation of amino-acid-based drug candidates using ProtGPT2, a Large Language Model trained on amino acid sequences, fine-tuned on known amino-acid based inhibitors of the enzyme. The generated sequences were then evaluated on basic metrics that would be expected from a viable drug in terms of ADMET and the Alphafold-Multimer docking simulations were conducted on those that fulfilled favorable conditions.
 
-<p style="align: center;">
+<p align=center>
     <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/protgpt2_histograms.png" alt="histograms">
 </p>
 
