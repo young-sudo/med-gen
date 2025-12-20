@@ -44,7 +44,7 @@ Additionally, CABS-dock and HPepDock were used to verify docking results from Al
 
 # Reports
 
->This is an overview of the Methods. For more details on methods and results refer to the documentation in [`reports/`](https://github.com/young-sudo/med-gen/tree/f1d27e8c3de2309fa58262932ed43b1fcef90a98/reports) folder.
+>For more details on methods and results refer to the documentation in [`reports/`](https://github.com/young-sudo/med-gen/tree/f1d27e8c3de2309fa58262932ed43b1fcef90a98/reports) folder.
 
 <p align=center>
     <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/report_abstract.png" alt="histograms">
