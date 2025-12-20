@@ -20,7 +20,7 @@ An international team-based initiative organised by five 4EU+ member universitie
 
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
 
->Note: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
+>**NOTE:**: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
 
 # Methods
 
@@ -42,7 +42,13 @@ Experimental methodology bases on Low Data generation of amino-acid-based drug c
 
 Additionally, CABS-dock and HPepDock were used to verify docking results from AlphaFold-Multimer.
 
-For more details refer to the documentation in `reports/` folder.
+# Reports
+
+>This is an overview of the Methods. For more details on methods and results refer to the documentation in [`reports/`](https://github.com/young-sudo/med-gen/tree/f1d27e8c3de2309fa58262932ed43b1fcef90a98/reports) folder.
+
+<p align=center>
+    <img src="https://raw.githubusercontent.com/young-sudo/med-gen/main/img/report_abstract.png" alt="histograms">
+</p>
 
 # References
 
