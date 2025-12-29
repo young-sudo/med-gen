@@ -1,6 +1,6 @@
 # 4EU+ Interdisciplinary Drug Design Project
 
-An experimental GenAI-based amino acid drug design study against SARS-CoV-2 nsp13 helicase.
+An experimental GenAI-based amino acid drug design project against SARS-CoV-2 nsp13 helicase.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F37626?style=for-the-badge&logo=google&logoColor=white)
