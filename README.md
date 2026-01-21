@@ -20,7 +20,7 @@ An international team-based initiative organised by five 4EU+ member universitie
 
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
 
->**NOTE:**: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
+>**NOTE**: This is a curated extract of the original [4EU+ project repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects), focusing solely on the work of team **Warsaw3**.
 
 # Methods
 
